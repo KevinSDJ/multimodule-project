@@ -68,5 +68,7 @@
   </build>
   <modules>
       <module>sse-demo</module>
+      <module>traditional-rest</module>
+      <module>reactive-rest</module>
   </modules>
 </project>
